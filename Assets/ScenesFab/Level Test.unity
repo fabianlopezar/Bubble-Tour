@@ -395,7 +395,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &84588744
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1420,7 +1420,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 49.679367
+  orthographic size: 36.95356
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1444,7 +1444,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 24.5, y: 35, z: -10}
+  m_LocalPosition: {x: 24.5, y: 29.2, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3073,7 +3073,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4683772079603195105, guid: 113848d33bf8f844db9ff02d3ba3ae74, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 52.29616
+      value: 17.3
       objectReference: {fileID: 0}
     - target: {fileID: 4683772079603195105, guid: 113848d33bf8f844db9ff02d3ba3ae74, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3161,7 +3161,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6405897163266499626, guid: 113848d33bf8f844db9ff02d3ba3ae74, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6508980940022493719, guid: 113848d33bf8f844db9ff02d3ba3ae74, type: 3}
       propertyPath: m_TagString
@@ -4653,7 +4653,7 @@ MonoBehaviour:
   <ChunkCountY>k__BackingField: 8
   chunkTemplate: {fileID: 5194434684234072523, guid: be4c8a8d550d874448a7ebe047c57492, type: 3}
   <OriginalTexture>k__BackingField: {fileID: 2800000, guid: c7f63b762e68cab4cb0145ac7a194834, type: 3}
-  <PPU>k__BackingField: 16
+  <PPU>k__BackingField: 32
   filterMode: 0
   <SortingLayerID>k__BackingField: 0
 --- !u!61 &1775323882
@@ -5035,8 +5035,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c42418d368568804dad61258d52c2290, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  circleSize: 24
-  outlineSize: 8
+  circleSize: 90
+  outlineSize: 1
   primaryLayer: {fileID: 1775323881}
   secondaryLayer: {fileID: 44864348}
 --- !u!1 &1844506341

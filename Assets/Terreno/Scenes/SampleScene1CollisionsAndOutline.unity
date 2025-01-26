@@ -154,10 +154,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <ChunkCountX>k__BackingField: 1
   <ChunkCountY>k__BackingField: 1
-  chunkTemplate: {fileID: 5194434684234072523, guid: d131098cbcac0e44aa81693a2bba460a,
-    type: 3}
-  <OriginalTexture>k__BackingField: {fileID: 2800000, guid: c7f63b762e68cab4cb0145ac7a194834,
-    type: 3}
+  chunkTemplate: {fileID: 5194434684234072523, guid: d131098cbcac0e44aa81693a2bba460a, type: 3}
+  <OriginalTexture>k__BackingField: {fileID: 2800000, guid: 8825b373cb546a3419c6e68c376432f7, type: 3}
   <PPU>k__BackingField: 32
   filterMode: 0
   <SortingLayerID>k__BackingField: 0
@@ -499,8 +497,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
-    type: 3}
+  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -584,8 +581,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
-    type: 3}
+  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -656,13 +652,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4af001885c4fabf44bb122b3b693310e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  <ChunkCountX>k__BackingField: 16
-  <ChunkCountY>k__BackingField: 16
-  chunkTemplate: {fileID: 5194434684234072523, guid: be4c8a8d550d874448a7ebe047c57492,
-    type: 3}
-  <OriginalTexture>k__BackingField: {fileID: 2800000, guid: c7f63b762e68cab4cb0145ac7a194834,
-    type: 3}
-  <PPU>k__BackingField: 32
+  <ChunkCountX>k__BackingField: 8
+  <ChunkCountY>k__BackingField: 8
+  chunkTemplate: {fileID: 5194434684234072523, guid: be4c8a8d550d874448a7ebe047c57492, type: 3}
+  <OriginalTexture>k__BackingField: {fileID: 2800000, guid: 8825b373cb546a3419c6e68c376432f7, type: 3}
+  <PPU>k__BackingField: 16
   filterMode: 0
   <SortingLayerID>k__BackingField: 0
 --- !u!61 &1775323882
